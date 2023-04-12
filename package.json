@@ -1,0 +1,11 @@
+{
+  "name": "server-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/radiatom/server-node.git",
+  "author": "radiatom <arssenmozol@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
